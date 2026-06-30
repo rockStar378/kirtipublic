@@ -9,7 +9,7 @@
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 from pyrogram.errors import ChatAdminRequired, UserNotParticipant, ChatWriteForbidden
-from TEAMZYRO import app
+from ShiviMusic import app
 
 #--------------------------
 
