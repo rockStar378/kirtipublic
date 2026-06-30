@@ -33,7 +33,7 @@ HELP_1 = """<b><u>⊚ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
 
 /speed or /playback : ғᴏʀ ᴀᴅᴊᴜsᴛɪɴɢ ᴛʜᴇ ᴀᴜᴅɪᴏ ᴘʟᴀʏʙᴀᴄᴋ sᴘᴇᴇᴅ ɪɴ ɢʀᴏᴜᴘ.
 
-**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/Kirti_update)**
+**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [˹Naisha ʙᴏᴛѕ˼](https://t.me/shree_update)**
 """
 
 HELP_2 = """
@@ -47,7 +47,7 @@ HELP_2 = """
 
 /authusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀᴜᴛʜ ᴜsᴇʀs ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.
 
-**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/Kirti_update)**
+**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [˹Naisha ʙᴏᴛѕ˼](https://t.me/shree_update)**
 """
 
 HELP_3 = """
@@ -70,8 +70,8 @@ HELP_3 = """
 **⊚ ᴇxᴀᴍᴩʟᴇ :-** 
 ```
 /broadcast -user -assistant -pin ᴛᴇsᴛɪɴɢ ʙʀᴏᴀᴅᴄᴀsᴛ
-```
-**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/Kirti_update)**
+
+**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [˹Naisha ʙᴏᴛѕ˼](https://t.me/shree_update)**
 """
 
 HELP_4 = """<u><b>⊚ ʙʟᴀᴄᴋʟɪsᴛ ғᴇᴀᴛᴜʀᴇ :</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs]
@@ -94,7 +94,7 @@ HELP_4 = """<u><b>⊚ ʙʟᴀᴄᴋʟɪsᴛ ғᴇᴀᴛᴜʀᴇ :</b></u> [ᴏɴ
 
 /blockedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ʙʟᴏᴄᴋᴇᴅ ᴜsᴇʀs.
 
-**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/Kirti_update)**
+**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [˹Naisha ʙᴏᴛѕ˼](https://t.me/shree_update)**
 """
 
 HELP_5 = """
@@ -119,9 +119,8 @@ HELP_5 = """
 
 /channelplay [ᴄʜᴀᴛ ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ɪᴅ] ᴏʀ [ᴅɪsᴀʙʟᴇ] : ᴄᴏɴɴᴇᴄᴛ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀ ɢʀᴏᴜᴩ ᴀɴᴅ sᴛᴀʀᴛs sᴛʀᴇᴀᴍɪɴɢ ᴛʀᴀᴄᴋs ʙʏ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴄᴏᴍᴍᴀɴᴅs sᴇɴᴛ ɪɴ ɢʀᴏᴜᴩ.
 
-**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/Kirti_update)**
+**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [˹Naisha ʙᴏᴛѕ˼](https://t.me/shree_update)**
 """
-
 HELP_6 = """
 <u><b>⊚ ɢʟᴏʙᴀʟ ʙᴀɴ ғᴇᴀᴛᴜʀᴇ</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs] :
 
@@ -131,7 +130,7 @@ HELP_6 = """
 
 /gbannedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇᴅ ᴜsᴇʀs.
 
-**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/Kirti_update)**
+**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [˹Naisha ʙᴏᴛѕ˼](https://t.me/shree_update)**
 """
 
 HELP_7 = """
@@ -147,7 +146,7 @@ HELP_7 = """
 
 /autoend [ᴇɴᴀʙʟᴇ|ᴅɪsᴀʙʟᴇ] : ᴇɴᴀʙʟᴇ sᴛʀᴇᴀᴍ ᴀᴜᴛᴏ ᴇɴᴅ ɪғ ɴᴏ ᴏɴᴇ ɪs ʟɪsᴛᴇɴɪɴɢ.
 
-**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/Kirti_update)**
+**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [˹Naisha ʙᴏᴛѕ˼](https://t.me/shree_update)**
 """
 
 HELP_8 = """
@@ -159,8 +158,8 @@ HELP_8 = """
 
 /maintenance [ᴇɴᴀʙʟᴇ/ᴅɪsᴀʙʟᴇ] : ᴇɴᴀʙʟᴇ ᴏʀ ᴅɪsᴀʙʟᴇ ᴛʜᴇ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ᴍᴏᴅᴇ ᴏғ ʏᴏᴜʀ ʙᴏᴛ.
 
-**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/Kirti_update)**
-"""
+**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [˹Naisha ʙᴏᴛѕ˼](https://t.me/shree_update)**
+""""
 
 HELP_9 = """
 <b><u>⊚ sᴏᴍᴇ ʙᴀsɪᴄ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
@@ -183,7 +182,7 @@ HELP_9 = """
 
 /stats : sʜᴏᴡs ᴛʜᴇ ᴏᴠᴇʀᴀʟʟ sᴛᴀᴛs ᴏғ ᴛʜᴇ ʙᴏᴛ.
 
-**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/Kirti_update)**
+**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [˹Naisha ʙᴏᴛѕ˼](https://t.me/shree_update)**
 """
 
 
