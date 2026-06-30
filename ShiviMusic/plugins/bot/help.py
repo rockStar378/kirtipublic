@@ -1,4 +1,4 @@
-t# ===========================================================
+# ===========================================================
 # ©️ 2025-26 All Rights Reserved by Purvi Bots (Im-Notcoder) 🚀
 # 
 # This source code is under MIT License 📜
