@@ -1,9 +1,9 @@
 # ======================================================
-# ©️ 2025-26 All Rights Reserved by Kirti 😎
+# ©️ 2025-26 All Rights Reserved by ytnaisha😎
 
-# 🧑‍💻 Developer : t.me/lll_APNA_BADNAM_BABY_lll
+# 🧑‍💻 Developer : t.me/vip_ankit_121
 # 🔗 Source link : https://github.com/Badnam019
-# 📢 Telegram channel : t.me/lll_APNA_BADNAM_BABY_lll
+# 📢 Telegram channel : t.me/shree_update
 # =======================================================
 
 from pyrogram import Client, filters
@@ -47,10 +47,10 @@ async def must_join_channel(app: Client, msg: Message):
     except ChatAdminRequired:
         print(f"๏ ᴘʀᴏᴍᴏᴛᴇ ᴍᴇ ᴀs ᴀɴ ᴀᴅᴍɪɴ ɪɴ ᴛʜᴇ ᴍᴜsᴛ_ᴊᴏɪɴ ᴄʜᴀᴛ ๏: {MUST_JOIN} !")
 
-# ======================================================
-# ©️ 2025-26 All Rights Reserved by Kirti 😎
+======================================================
+# ©️ 2025-26 All Rights Reserved by ytnaisha😎
 
-# 🧑‍💻 Developer : t.me/lll_APNA_BADNAM_BABY_lll
+# 🧑‍💻 Developer : t.me/vip_ankit_121
 # 🔗 Source link : https://github.com/Badnam019
-# 📢 Telegram channel : t.me/lll_APNA_BADNAM_BABY_lll
+# 📢 Telegram channel : t.me/shree_update
 # =======================================================
