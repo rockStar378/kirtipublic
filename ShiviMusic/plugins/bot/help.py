@@ -25,22 +25,23 @@ from ShiviMusic.utils.stuffs.buttons import BUTTONS
 from ShiviMusic.utils.stuffs.helper import Helper
 
 
-START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/d274gt.jpg"
-)
-PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/d274gt.jpg"
-)
-PLAYLIST_IMG_URL = "https://files.catbox.moe/k7iykz.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/k7iykz.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/k7iykz.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/k7iykz.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/k7iykz.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/k7iykz.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/k7iykz.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/k7iykz.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/k7iykz.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/k7iykz.jpg"
+START_IMG = [
+    "https://files.catbox.moe/x5lytj.jpg",
+    "https://files.catbox.moe/psya34.jpg",
+    "https://files.catbox.moe/leaexg.jpg",
+    "https://files.catbox.moe/b0e4vk.jpg",
+    "https://files.catbox.moe/1b1wap.jpg",
+    "https://files.catbox.moe/ommjjk.jpg",
+    "https://files.catbox.moe/onurxm.jpg",
+    "https://files.catbox.moe/97v75k.jpg",
+    "https://files.catbox.moe/t833zy.jpg",
+    "https://files.catbox.moe/472piq.jpg",
+    "https://files.catbox.moe/qwjeyk.jpg",
+    "https://files.catbox.moe/t0hopv.jpg",
+    "https://files.catbox.moe/u5ux0j.jpg",
+    "https://files.catbox.moe/h1yk4w.jpg",
+    "https://files.catbox.moe/gl5rg8.jpg",
+]
 
 @app.on_message(filters.command(["help"]) & filters.private & ~BANNED_USERS)
 @app.on_callback_query(filters.regex("settings_back_helper") & ~BANNED_USERS)
