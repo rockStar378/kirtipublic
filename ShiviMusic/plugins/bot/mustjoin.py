@@ -9,11 +9,11 @@
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 from pyrogram.errors import ChatAdminRequired, UserNotParticipant, ChatWriteForbidden
-from ShiviMusic import app
+from TEAMZYRO import app
 
 #--------------------------
 
-MUST_JOIN = "Kirti_update"
+MUST_JOIN = "shree_update "
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
@@ -35,8 +35,8 @@ async def must_join_channel(app: Client, msg: Message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/Kirti_update"),
-                                InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/kirti_supprot_group"),
+                                InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/shree_update "),
+                                InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/tynaish"),
                             ]
                         ]
                     )
