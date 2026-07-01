@@ -1,6 +1,6 @@
 # -----------------------------------------------
 # 🔸 ShiviMusic Project
-# 🔹 Developed & Maintained by: kirti Bots (https://github.com/TEAM-BADNAM-OP)
+# 🔹 Developed & Maintained by: Naisha Bots (https://github.com/TEAM-BADNAM-OP)
 # 📅 Copyright © 2025 – All Rights Reserved
 #
 # 📖 License:
@@ -9,7 +9,7 @@
 # Commercial use, redistribution, or removal of this notice is strictly prohibited
 # without prior written permission from the author.
 #
-# ❤️ Made with dedication and love by TEAM-KIRTI-OP
+# ❤️ Made with dedication and love by TEAM-Naisha-OP
 # -----------------------------------------------
 
 
