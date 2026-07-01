@@ -20,16 +20,6 @@ def start_panel(_):
         ],
         [
             InlineKeyboardButton(
-                text=_["S_B_9"],
-                callback_data="sbot_cb"
-            ),
-            InlineKeyboardButton(
-                text=_["S_B_13"],
-                callback_data="abot_cb"
-            ),
-        ],
-        [
-            InlineKeyboardButton(
                 text=_["S_B_4"],
                 callback_data="settings_back_helper"
             ),
@@ -45,16 +35,6 @@ def private_panel(_):
                 text=_["S_B_3"],
                 url=f"https://t.me/{app.username}?startgroup=true",
             )
-        ],
-        [
-            InlineKeyboardButton(
-                text=_["S_B_9"],
-                callback_data="sbot_cb"
-            ),
-            InlineKeyboardButton(
-                text=_["S_B_13"],
-                callback_data="abot_cb"
-            ),
         ],
         [
             InlineKeyboardButton(
